@@ -7,7 +7,8 @@
 </template>
 
 <style scoped>
-.read-the-docs {
-  color: #888;
+
+h1 {
+  text-align: center;
 }
 </style>
