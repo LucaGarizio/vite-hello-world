@@ -1,16 +1,19 @@
 <script>
-import AppTitle from './components/AppTitle.vue'
+import NavBar from './components/NavBar.vue'
+import AppHero from './components/AppHero.vue'
+
 
 export default {
   components: {
-    AppTitle
+    NavBar,
+    AppHero
   }
 }
 </script>
 
 <template>
   
-  <AppTitle/>
+  <NavBar/>
   <AppHero/>
 
 </template>

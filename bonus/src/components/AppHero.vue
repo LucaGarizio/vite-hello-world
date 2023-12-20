@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h1>La mia prima app con Vite!</h1>
+  <img src="../assets/wallpaperflare.com_wallpaper(2).jpg" alt="">
 </template>
 
 <style scoped>
